@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayok</h1>
-<h3 align="center">A passionate Google Certified Android developer from India :india:</h3>
+<h3 align="center">A passionate Google Certified Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neilsayok&label=Profile%20views&color=0e75b6&style=flat" alt="neilsayok" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sayokdeymajumder1998@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iCpE7Fr72y9SwoZuKQqOVyEZg2MeREgoiKpEJ3BkN0Q/edit](https://docs.google.com/document/d/1iCpE7Fr72y9SwoZuKQqOVyEZg2MeREgoiKpEJ3BkN0Q/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1iCpE7Fr72y9SwoZuKQqOVyEZg2MeREgoiKpEJ3BkN0Q/edit](Download My Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
