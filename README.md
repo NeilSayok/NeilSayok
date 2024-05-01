@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Google Certified Android developer from India</h3>
 
 
-<p align="center"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45476008" alt="badge" /> </p>
-
-
 
 - 💬 Ask me about **Android**
 
